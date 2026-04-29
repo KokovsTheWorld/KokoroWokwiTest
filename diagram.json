@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "author": "Anderson Costa",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "wokwi-pi-pico", "id": "pico", "top": 118, "left": 348, "rotate": 90, "attrs": {} },
+    { "type": "wokwi-resistor", "id": "rp1", "top": 349.55, "left": 19.2, "attrs": { "value": "1000" } },
+    { "type": "wokwi-resistor", "id": "rp2", "top": 368.75, "left": 19.2, "attrs": { "value": "1000" } },
+    { "type": "wokwi-resistor", "id": "rp3", "top": 426.35, "left": 19.2, "attrs": { "value": "1000" } },
+    { "type": "wokwi-resistor", "id": "rp4", "top": 397.55, "left": 19.2, "attrs": { "value": "1000" } },
+    { "type": "wokwi-membrane-keypad", "id": "keypad1", "top": -30.8, "left": -13.6, "attrs": {} }
+  ],
+  "dependencies": {}
+}
